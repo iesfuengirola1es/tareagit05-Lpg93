@@ -1,4 +1,8 @@
 # tareagit05-Lpg93
 tareagit05-Lpg93 created by GitHub Classroom
 
-Hola esto es algo para modificar
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("¡Hola, Mundo!");
+    }
+}
