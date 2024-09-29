@@ -57,4 +57,4 @@ Y con este comando clonamos el tag. Aqui indica que no esta vacio el ejercicio (
 ```
 git rm -rf <carpeta>
 ```
-y volver a hacer el tag.
+y volver a descargar.
