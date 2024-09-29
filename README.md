@@ -49,3 +49,12 @@ Aqui pedimos autorizacion para hacer un pull, a lo que el compañero nos lo acep
 
 ### Parte individual
 ![alt text](Tag.png)
+
+Tras el commit creamos el tag 
+
+![alt text](image.png)
+Y con este comando clonamos el tag. Aqui indica que no esta vacio el ejercicio ( ya que estoy escribiendo esto) pero lo necesario seria borrar todo con 
+```
+git rm -rf <carpeta>
+```
+y volver a hacer el tag.
